@@ -282,13 +282,15 @@
 	"crystalwyvern":{
 		"name_t":{
 			"ja":"クリスタルワイバーン",
-			"pt-br":"Wyvern de Cristal"
+			"pt-br":"Wyvern de Cristal",
+			"ru":"Кристальная Виверна"
 		}
 	},
 	"crystalwyvernqueen":{
 		"name_t":{
 			"ja":"クリスタルワイバーンクイーン",
-			"pt-br":"Wyvern Rainha de Cristal"
+			"pt-br":"Wyvern Rainha de Cristal",
+			"ru":"Королева Кристальных Виверн"
 		}
 	},
 	"daeodon":{
